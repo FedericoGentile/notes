@@ -12,3 +12,9 @@ PS1="$PS1"'\name@lastname'      # user@host<space> "$PS1"'\u@\h '
 
 PS1="$PS1"                      # new line $PS1"'\n'
 ```
+
+# Run Python
+In the users home directory type:
+```sh
+echo "alias python='winpty python.exe'" >> ~/.bashrc
+```
