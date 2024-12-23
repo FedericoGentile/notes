@@ -13,6 +13,11 @@ PS1="$PS1"'\name@lastname'      # user@host<space> "$PS1"'\u@\h '
 PS1="$PS1"                      # new line $PS1"'\n'
 ```
 
+If you are running a virtual environment while using Python, and you want it on the same line:
+```sh
+PS1="$PS1"                 # new line "$PS1"'\n'
+```
+
 # Run Python
 In the users home directory type:
 ```sh
