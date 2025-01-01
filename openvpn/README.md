@@ -6,4 +6,5 @@
 - Open a terminal, navigate to the folder and type:
 ```sh
 sudo openvpn vpnbook-us16-tcp443.ovpn
-```
+```https://www.vpnbook.com/freevpn
+- Type username and password from here: [link](https://www.vpnbook.com/freevpn) 
