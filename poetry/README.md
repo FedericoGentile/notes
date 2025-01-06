@@ -2,9 +2,11 @@
 Poetry allows to create virtual environments and manage Python projects.
 
 ## How To
-- Navigate to the foler where you usually have your projects.
-- Type in the terminal:
+- Navigate to the foler where you usually have your projects and then type in the terminal:
 ```sh
+poetry project_name
+```
+This will create a folder with all the necessary files for the project.
 poetry project_name
 ```
 This will create a folder with all the necessary files for the project.
