@@ -24,6 +24,10 @@ Poetry allows to create virtual environments and manage Python projects.
     ```sh
     source $(poetry env info --path)/bin/activate
     ```
+    If you are using Windows, then try with:
+    ```sh
+    source .venv/Scripts/activate
+    ```
 - Install a package:
     ```sh
     poetry add package_name
